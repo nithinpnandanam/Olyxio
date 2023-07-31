@@ -1,0 +1,238 @@
+[{"country":"America",
+"unique_id":"c1",
+  "location":[
+        {
+            "countryName": "America",
+            "place": "USA - Chantilly",
+            "address": {
+                "addressLine1": "14150 Newbrook Drive",
+                "addressLine2": "Suite 115",
+                "addressLine3": "Chantilly, VA 20151"
+            },
+            "phoneNumber": "+1-571-281-3229",
+            "location": "View Map",
+            "locationImage": "officeImages/USAchantilly.png"
+        },
+        {
+            "countryName": "America",
+            "place": "Canada - Toronto",
+            "address": {
+                "addressLine1": "2425 Matheson Blvd East",
+                "addressLine2": "8th Floor",
+                "addressLine3": "Mississauga, Toronto",
+                "addressLine4": "Ontario, L4W 5K4"
+            },
+            "phoneNumber": "+1-905-361-6591",
+            "location": "View Map",
+            "locationImage": "officeImages/canada.png"
+
+        },
+        {
+            "countryName": "America",
+            "place": "USA - Stafford",
+            "address": {
+                "addressLine1": "920 FM 1092",
+                "addressLine2": "# 201",
+                "addressLine3": "Stafford, TX 77477"
+            },
+            "phoneNumber": "+1-512-730-0443",
+            "location": "View Map",
+            "locationImage": "officeImages/USAstafford.png"
+
+        }
+    ]   
+},{
+    "country":"Europe",
+    "unique_id":"c2",
+    "location":[
+        {
+            "countryName": "Europe",
+            "place": "UK - Salisbury",
+            "address": {
+                "addressLine1": "Nunns Orchard",
+                "addressLine2": "Dean Lane",
+                "addressLine3": "Whiteparish",
+                "addressLine4": "Salisbury, SP5 2RJ"
+            },
+            "phoneNumber": "44-114-360-3250",
+            "location": "View Map",
+            "locationImage": "officeImages/UK.png"
+        }
+
+    ]
+
+},{
+    "country": "Middle East",
+    "unique_id":"c3",
+    "location":[
+        {
+            "countryName": "middleEast",
+            "place": "UAE - Dubai",
+            "address": {
+                "addressLine1": "E3-308,Dubai Silicon Oasis",
+                "addressLine2": "Dubai"
+            },
+            "phoneNumber": "+971-4371-2632",
+            "location": "View Map",
+            "locationImage": "officeImages/UAEDubai.png"
+        }
+    ]
+},{
+    "country": "South Asia",
+    "unique_id":"c4",
+    "location":[
+        {
+            "countryName": "southAsia",
+            "place": "India - Trivandrum",
+            "address": {
+                "addressLine1": "7th Floor, Ganga",
+                "addressLine2": "Phase III Campus",
+                "addressLine3": "Technopark",
+                "addressLine4": "Trivandrum - 695583"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/tvmGanga.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Chennai",
+            "address": {
+                "addressLine1": "3rd Floor, SM Towers, 2/88",
+                "addressLine2": "OMR, Seevaram, Perungudi",
+                "addressLine3": "Chennai - 600096"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/chennaiQB.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Noida",
+            "address": {
+                "addressLine1": "6th Floor, Tower B",
+                "addressLine2": "A-8A, Knowledge Boulevard,",
+                "addressLine3": "Sector 62, Noida - 201301"
+        
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/noida.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Bangalore",
+            "address": {
+                "addressLine1": "7th Floor, Fairway Business",
+                "addressLine2": "Park",
+                "addressLine3": "Near EGL, Domlur",
+                "addressLine4": "Bangalore - 560071"
+            },
+            "phoneNumber": "+91-806-193-9353",
+            "location": "View Map",
+            "locationImage": "officeImages/bangalore.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Cochin",
+            "address": {
+                "addressLine1": "4th Floor, Tower B ",
+                "addressLine2": "World Trade Center",
+                "addressLine3": "Infopark ",
+                "addressLine4": "Cochin - 682030"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/kochiQB.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Calicut",
+            "address": {
+                "addressLine1": "5th Floor",
+                "addressLine2": "UL Cyber Park",
+                "addressLine3": "Calicut - 673016"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/calicut.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Cochin",
+            "address": {
+                "addressLine1": "9th Floor, Lulu Cyber Tower",
+                "addressLine2": "Infopark ",
+                "addressLine3": "Cochin - 682030"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/kochi.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Trivandrum",
+            "address": {
+                "addressLine1": "4th Floor, Artech Magnet",
+                "addressLine2": "Vazhuthacaud ",
+                "addressLine3": "Trivandrum - 695014"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/tvmVzcd.png"
+        },
+        {
+            "countryName": "southAsia",
+            "place": "India - Koratty",
+            "address": {
+                "addressLine1": "Nisagandhi, Infopark",
+                "addressLine2": "Koratty",
+                "addressLine3": "Trichur - 680308"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/koratty.png"
+        }
+    ]
+},{
+    "country": "East Asia",
+    "unique_id":"c5",
+    "location":[
+        {
+            "countryName": "EastAsia",
+            "place": "Japan - Tokyo",
+            "address": {
+                "addressLine1": "Toranomon Hills Business ",
+                "addressLine2": "Tower 15F",
+                "addressLine3": "1-17-1 Toranomon",
+                "addressLine4": "Minato-ku, Tokyo 105-6415"
+            },
+            "phoneNumber": "+81 70 4130 1686",
+            "location": "View Map",
+            "locationImage": "officeImages/japan.png"
+        },
+        {
+            "countryName": "EastAsia",
+            "place": "Singapore - Singapore City",
+            "address": {
+                "addressLine1": "8 Temasek Boulevard",
+                "addressLine2": "#42-01, Suntec Tower Three",
+                "addressLine3": "Singapore 038988"
+            },
+            "phoneNumber": " +65-9880-1029",
+            "location": "View Map",
+            "locationImage": "officeImages/singapore.png"
+        }
+    ]
+},{
+    "country": "Oceania",
+    "unique_id":"c6",
+    "location":[
+        {
+            "countryName": "Oceania",
+            "place": "Australia - Sydney",
+            "address": {
+                "addressLine1": "Level 40, Northpoint Tower",
+                "addressLine2": "100 Miller Street",
+                "addressLine3": "North Sydney",
+                "addressLine4": "NSW 2060"
+            },
+            "location": "View Map",
+            "locationImage": "officeImages/australiaQB.jpg"
+        }
+    ]
+}
+
+]

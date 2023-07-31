@@ -1,0 +1,116 @@
+{
+  "testimonial":
+  [
+      {
+          "image": "images/sarah.jpg",
+          "name": "Sifat Hasan",
+          "designation": "Agen Founder",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,exflaborum quam "
+      },
+      {
+          "image": "images/sarah.jpg",
+          "name": "Sifat Hasan",
+          "designation": "Agen Founder",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,exflaborum quam "
+      },
+      {
+          "image": "images/sarah.jpg",
+          "name": "Sifat Hasan",
+          "designation": "Agen Founder",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,exflaborum quam "
+      }
+  ],
+  "sideMenu":
+  [
+    {
+      "mainmenu": "Company",
+      "subMenu": [
+        {
+          "Overview": "https://www.qburst.com/company/"
+        },
+        {
+          "About Qburst": "https://www.qburst.com/company/about/"
+        },
+        {
+          "Leadership Team": "https://www.qburst.com/company/about/management/"
+        },
+        {
+          "CLients": "https://www.qburst.com/clients/"
+        },
+        {
+          "Partners": "https://www.qburst.com/company/partners/"
+        },
+        {
+          "Corporate Resposibility": "https://csr.qburst.com/"
+        },
+        {
+          "News": "https://news.qburst.com/"
+        },
+        {
+          "Our Location": "location.html"
+        },
+        {
+          "Privacy Policy": "https://www.qburst.com/privacypolicy/"
+        },
+        {
+          "Pay Your Invoice": "https://www.payumoney.com/paybypayumoney/#/84F0EDF595FC714C648493CB87879645"
+        }
+      ]
+    },
+    {
+      "mainmenu": "Approach",
+      "subMenu": [
+        {
+          "Overview": "https://www.qburst.com/approach/"
+        },
+        {
+          "Architecture": "https://www.qburst.com/approach/architecture/"
+        },
+        {
+          "Design": "https://www.qburst.com/approach/design/"
+        },
+        {
+          "Development": "https://www.qburst.com/approach/development/"
+        },
+        {
+          "Testing": "https://www.qburst.com/approach/testing/"
+        },
+        {
+          "Tools & Lab": "https://www.qburst.com/approach/testing-tools-lab/"
+        },
+        {
+          "Delivery Model": "https://www.qburst.com/approach/delivery/"
+        }
+      ]
+    },
+    {
+      "mainmenu": "Carriers",
+      "subMenu": [
+        {
+          "Overview": "https://www.qburst.com/company/career/"
+        },
+        {
+          "Open Positions": "https://www.qburst.com/company/career/openings/"
+        },
+        {
+          "Entry-Level Opportunities": "https://www.qburst.com/company/career/entry-level-openings/"
+        },
+        {
+          "Submit Resume": "https://www.qburst.com/company/career/apply/"
+        }
+      ]
+    },
+    {
+      "mainmenu": "Blog",
+      "subMenu": [],
+      "Link":"https://blog.qburst.com/"
+
+    },
+    {
+      "mainmenu": "Our Location",
+      "subMenu": [],
+      "Link":"location.html"
+    }
+  ]
+  
+}
